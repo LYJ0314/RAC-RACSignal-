@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RAC-RACSignal核心类使用.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2CCF98D61F2B081C00A6223C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CCF98EF1F2B081D00A6223C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CCF98FA1F2B081D00A6223C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

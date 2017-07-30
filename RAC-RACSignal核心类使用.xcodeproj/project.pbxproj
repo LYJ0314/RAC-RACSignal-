@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		16F3FE4C8CC78481F4DA0F53 /* libPods-RAC-RACSignal核心类使用.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A667A2C5CE121F273C287A97 /* libPods-RAC-RACSignal核心类使用.a */; };
 		2CCF98DC1F2B081C00A6223C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF98DB1F2B081C00A6223C /* main.m */; };
 		2CCF98DF1F2B081C00A6223C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF98DE1F2B081C00A6223C /* AppDelegate.m */; };
 		2CCF98E21F2B081C00A6223C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF98E11F2B081C00A6223C /* ViewController.m */; };
@@ -15,6 +16,12 @@
 		2CCF98EA1F2B081D00A6223C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CCF98E81F2B081C00A6223C /* LaunchScreen.storyboard */; };
 		2CCF98F51F2B081D00A6223C /* RAC_RACSignal_____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF98F41F2B081D00A6223C /* RAC_RACSignal_____Tests.m */; };
 		2CCF99001F2B081D00A6223C /* RAC_RACSignal_____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF98FF1F2B081D00A6223C /* RAC_RACSignal_____UITests.m */; };
+		2CCF990F1F2B0F6C00A6223C /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF990E1F2B0F6C00A6223C /* MyViewController.m */; };
+		2CCF99121F2B43BC00A6223C /* MySecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2CCF99111F2B43BC00A6223C /* MySecondViewController.m */; };
+		9102DA8A1F2C33AA00A88E7A /* MyThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102DA891F2C33AA00A88E7A /* MyThirdViewController.m */; };
+		9102DA8D1F2D7D8F00A88E7A /* MyForthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102DA8C1F2D7D8F00A88E7A /* MyForthViewController.m */; };
+		9102DA901F2DA72400A88E7A /* MyFifthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102DA8F1F2DA72400A88E7A /* MyFifthViewController.m */; };
+		9102DA931F2DB30900A88E7A /* MySixthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9102DA921F2DB30900A88E7A /* MySixthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +58,21 @@
 		2CCF98FB1F2B081D00A6223C /* RAC-RACSignal核心类使用UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RAC-RACSignal核心类使用UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CCF98FF1F2B081D00A6223C /* RAC_RACSignal_____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "RAC_RACSignal_____UITests.m"; sourceTree = "<group>"; };
 		2CCF99011F2B081D00A6223C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CCF990D1F2B0F6C00A6223C /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		2CCF990E1F2B0F6C00A6223C /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		2CCF99101F2B43BC00A6223C /* MySecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MySecondViewController.h; sourceTree = "<group>"; };
+		2CCF99111F2B43BC00A6223C /* MySecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MySecondViewController.m; sourceTree = "<group>"; };
+		9102DA881F2C33AA00A88E7A /* MyThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyThirdViewController.h; sourceTree = "<group>"; };
+		9102DA891F2C33AA00A88E7A /* MyThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyThirdViewController.m; sourceTree = "<group>"; };
+		9102DA8B1F2D7D8F00A88E7A /* MyForthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyForthViewController.h; sourceTree = "<group>"; };
+		9102DA8C1F2D7D8F00A88E7A /* MyForthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyForthViewController.m; sourceTree = "<group>"; };
+		9102DA8E1F2DA72400A88E7A /* MyFifthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyFifthViewController.h; sourceTree = "<group>"; };
+		9102DA8F1F2DA72400A88E7A /* MyFifthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyFifthViewController.m; sourceTree = "<group>"; };
+		9102DA911F2DB30900A88E7A /* MySixthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MySixthViewController.h; sourceTree = "<group>"; };
+		9102DA921F2DB30900A88E7A /* MySixthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MySixthViewController.m; sourceTree = "<group>"; };
+		A667A2C5CE121F273C287A97 /* libPods-RAC-RACSignal核心类使用.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RAC-RACSignal核心类使用.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AA4D2705EEA7F720FB159804 /* Pods-RAC-RACSignal核心类使用.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAC-RACSignal核心类使用.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RAC-RACSignal核心类使用/Pods-RAC-RACSignal核心类使用.debug.xcconfig"; sourceTree = "<group>"; };
+		B3AB1886B7A2002BFCD3539B /* Pods-RAC-RACSignal核心类使用.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RAC-RACSignal核心类使用.release.xcconfig"; path = "Pods/Target Support Files/Pods-RAC-RACSignal核心类使用/Pods-RAC-RACSignal核心类使用.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16F3FE4C8CC78481F4DA0F53 /* libPods-RAC-RACSignal核心类使用.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +108,8 @@
 				2CCF98F31F2B081D00A6223C /* RAC-RACSignal核心类使用Tests */,
 				2CCF98FE1F2B081D00A6223C /* RAC-RACSignal核心类使用UITests */,
 				2CCF98D81F2B081C00A6223C /* Products */,
+				625ED28951349FD34603923B /* Pods */,
+				9B1BC11D8A3EB52C78890D63 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +130,18 @@
 				2CCF98DE1F2B081C00A6223C /* AppDelegate.m */,
 				2CCF98E01F2B081C00A6223C /* ViewController.h */,
 				2CCF98E11F2B081C00A6223C /* ViewController.m */,
+				2CCF990D1F2B0F6C00A6223C /* MyViewController.h */,
+				2CCF990E1F2B0F6C00A6223C /* MyViewController.m */,
+				2CCF99101F2B43BC00A6223C /* MySecondViewController.h */,
+				2CCF99111F2B43BC00A6223C /* MySecondViewController.m */,
+				9102DA881F2C33AA00A88E7A /* MyThirdViewController.h */,
+				9102DA891F2C33AA00A88E7A /* MyThirdViewController.m */,
+				9102DA8B1F2D7D8F00A88E7A /* MyForthViewController.h */,
+				9102DA8C1F2D7D8F00A88E7A /* MyForthViewController.m */,
+				9102DA8E1F2DA72400A88E7A /* MyFifthViewController.h */,
+				9102DA8F1F2DA72400A88E7A /* MyFifthViewController.m */,
+				9102DA911F2DB30900A88E7A /* MySixthViewController.h */,
+				9102DA921F2DB30900A88E7A /* MySixthViewController.m */,
 				2CCF98E31F2B081C00A6223C /* Main.storyboard */,
 				2CCF98E61F2B081C00A6223C /* Assets.xcassets */,
 				2CCF98E81F2B081C00A6223C /* LaunchScreen.storyboard */,
@@ -140,6 +177,23 @@
 			path = "RAC-RACSignal核心类使用UITests";
 			sourceTree = "<group>";
 		};
+		625ED28951349FD34603923B /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AA4D2705EEA7F720FB159804 /* Pods-RAC-RACSignal核心类使用.debug.xcconfig */,
+				B3AB1886B7A2002BFCD3539B /* Pods-RAC-RACSignal核心类使用.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		9B1BC11D8A3EB52C78890D63 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A667A2C5CE121F273C287A97 /* libPods-RAC-RACSignal核心类使用.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +201,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2CCF99041F2B081D00A6223C /* Build configuration list for PBXNativeTarget "RAC-RACSignal核心类使用" */;
 			buildPhases = (
+				DAA606A4D158119BBACC98BA /* [CP] Check Pods Manifest.lock */,
 				2CCF98D31F2B081C00A6223C /* Sources */,
 				2CCF98D41F2B081C00A6223C /* Frameworks */,
 				2CCF98D51F2B081C00A6223C /* Resources */,
+				B0F0556814B7D8E3820E57D3 /* [CP] Embed Pods Frameworks */,
+				F32562A36305DA8E95F12211 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -268,13 +325,67 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		B0F0556814B7D8E3820E57D3 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RAC-RACSignal核心类使用/Pods-RAC-RACSignal核心类使用-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DAA606A4D158119BBACC98BA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F32562A36305DA8E95F12211 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RAC-RACSignal核心类使用/Pods-RAC-RACSignal核心类使用-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2CCF98D31F2B081C00A6223C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9102DA901F2DA72400A88E7A /* MyFifthViewController.m in Sources */,
 				2CCF98E21F2B081C00A6223C /* ViewController.m in Sources */,
 				2CCF98DF1F2B081C00A6223C /* AppDelegate.m in Sources */,
+				2CCF99121F2B43BC00A6223C /* MySecondViewController.m in Sources */,
+				2CCF990F1F2B0F6C00A6223C /* MyViewController.m in Sources */,
+				9102DA931F2DB30900A88E7A /* MySixthViewController.m in Sources */,
+				9102DA8A1F2C33AA00A88E7A /* MyThirdViewController.m in Sources */,
+				9102DA8D1F2D7D8F00A88E7A /* MyForthViewController.m in Sources */,
 				2CCF98DC1F2B081C00A6223C /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -422,9 +533,12 @@
 		};
 		2CCF99051F2B081D00A6223C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AA4D2705EEA7F720FB159804 /* Pods-RAC-RACSignal核心类使用.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "RAC-RACSignal核心类使用/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "JXW.RAC-RACSignal-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -433,9 +547,12 @@
 		};
 		2CCF99061F2B081D00A6223C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B3AB1886B7A2002BFCD3539B /* Pods-RAC-RACSignal核心类使用.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "RAC-RACSignal核心类使用/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "JXW.RAC-RACSignal-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -507,6 +624,7 @@
 				2CCF99061F2B081D00A6223C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2CCF99071F2B081D00A6223C /* Build configuration list for PBXNativeTarget "RAC-RACSignal核心类使用Tests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +633,7 @@
 				2CCF99091F2B081D00A6223C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2CCF990A1F2B081D00A6223C /* Build configuration list for PBXNativeTarget "RAC-RACSignal核心类使用UITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +642,7 @@
 				2CCF990C1F2B081D00A6223C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
